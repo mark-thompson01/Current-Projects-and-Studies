@@ -6,7 +6,7 @@
 
 
 ## Studies
-  1. eCCPT - eLearning Security Penetration Testing Professional - Working towards certification
+  1. eCCPT - eLearning Security Penetration Testing Professional Certification - Working towards
   2. PowerShell fundamentals
   3. Python fundamentals
   4. Threat hunting
