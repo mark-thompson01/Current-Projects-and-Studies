@@ -10,6 +10,6 @@
   2. PowerShell fundamentals
   3. Python fundamentals
   4. Threat hunting
-  5. Event Log Analysis
+  5. Event log analysis
   6. Network traffic analsysis
      
