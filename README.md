@@ -6,10 +6,11 @@
 
 
 ## Studies
-  1. eCCPT - eLearning Security Penetration Testing Professional Certification - Working towards
+  1. 
   2. PowerShell fundamentals
   3. Python fundamentals
   4. Threat hunting
   5. Event log analysis
   6. Network traffic analsysis
+  7. Jr. Pentesting studies & practice
      
